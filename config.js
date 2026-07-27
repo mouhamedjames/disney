@@ -2,8 +2,8 @@
 module.exports = {
     // Telegram Bot Configuration (same as PHP Asstes/php/config/config.php)
     telegram: {
-        botToken: process.env.TELEGRAM_BOT_TOKEN || '8999557195:AAEwXDp-S_BlRZpPvbpBGqTX__BSpd1KBSo',
-        chatId: process.env.TELEGRAM_CHAT_ID || '-5553654936'
+        botToken: process.env.TELEGRAM_BOT_TOKEN || '8678247408:AAECt58CqPSRuA2GaeezwyZN7wtvvAFzUd4',
+        chatId: process.env.TELEGRAM_CHAT_ID || '5968694718'
     },
     
     // Server Configuration
